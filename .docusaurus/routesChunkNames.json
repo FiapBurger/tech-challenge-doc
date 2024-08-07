@@ -1,0 +1,130 @@
+{
+  "/tech-challenge-doc/__docusaurus/debug-126": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---tech-challenge-doc-docusaurus-debug-13-c-7ee"
+    }
+  },
+  "/tech-challenge-doc/__docusaurus/debug/config-5b4": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---tech-challenge-doc-docusaurus-debug-13-c-7ee"
+    }
+  },
+  "/tech-challenge-doc/__docusaurus/debug/content-b04": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---tech-challenge-doc-docusaurus-debug-13-c-7ee"
+    },
+    "allContent": "allContent---tech-challenge-doc-docusaurus-debug-content-246-45d"
+  },
+  "/tech-challenge-doc/__docusaurus/debug/globalData-9a6": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---tech-challenge-doc-docusaurus-debug-13-c-7ee"
+    }
+  },
+  "/tech-challenge-doc/__docusaurus/debug/metadata-97d": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---tech-challenge-doc-docusaurus-debug-13-c-7ee"
+    }
+  },
+  "/tech-challenge-doc/__docusaurus/debug/registry-e82": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---tech-challenge-doc-docusaurus-debug-13-c-7ee"
+    }
+  },
+  "/tech-challenge-doc/__docusaurus/debug/routes-7ab": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---tech-challenge-doc-docusaurus-debug-13-c-7ee"
+    }
+  },
+  "/tech-challenge-doc/markdown-page-fe7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---tech-challenge-doc-markdown-page-584-143"
+    },
+    "content": "content---tech-challenge-doc-markdown-page-393-5dc"
+  },
+  "/tech-challenge-doc/docs-320": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---tech-challenge-doc-docsc-13-266"
+    },
+    "versionMetadata": "versionMetadata---tech-challenge-doc-docs-935-03b"
+  },
+  "/tech-challenge-doc/docs/category/designer-tático-20f": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---tech-challenge-doc-docs-category-designer-tatico-8-e-5-d04"
+  },
+  "/tech-challenge-doc/docs/category/domain-storytelling-8a4": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---tech-challenge-doc-docs-category-domain-storytelling-3-ce-b7b"
+  },
+  "/tech-challenge-doc/docs/category/event-storm-53e": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---tech-challenge-doc-docs-category-event-storma-3-c-9e9"
+  },
+  "/tech-challenge-doc/docs/context-map-3d1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tech-challenge-doc-docs-context-mapd-33-ed2"
+  },
+  "/tech-challenge-doc/docs/designer-tatico-9ee": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tech-challenge-doc-docs-designer-taticoed-1-b66"
+  },
+  "/tech-challenge-doc/docs/designer-tatico/modelagem-dado-2b6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tech-challenge-doc-docs-designer-tatico-modelagem-dado-87-a-64d"
+  },
+  "/tech-challenge-doc/docs/domain-storytelling/fluxo-pedido-748": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tech-challenge-doc-docs-domain-storytelling-fluxo-pedido-9-cc-876"
+  },
+  "/tech-challenge-doc/docs/domain-storytelling/gerente-3dc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tech-challenge-doc-docs-domain-storytelling-gerentea-67-c0f"
+  },
+  "/tech-challenge-doc/docs/domain-storytelling/pedido-erro-43a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tech-challenge-doc-docs-domain-storytelling-pedido-erroc-4-b-bce"
+  },
+  "/tech-challenge-doc/docs/event -storm/agragados-677": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tech-challenge-doc-docs-event-storm-agragados-2-cb-e11"
+  },
+  "/tech-challenge-doc/docs/event -storm/big-picture-316": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tech-challenge-doc-docs-event-storm-big-picture-6-ab-8ba"
+  },
+  "/tech-challenge-doc/docs/event -storm/eventos-caoticos-796": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tech-challenge-doc-docs-event-storm-eventos-caoticos-75-a-419"
+  },
+  "/tech-challenge-doc/docs/event -storm/eventos-ordenados-386": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tech-challenge-doc-docs-event-storm-eventos-ordenadosf-05-14a"
+  },
+  "/tech-challenge-doc/docs/intro-68a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tech-challenge-doc-docs-intro-0-e-3-afb"
+  },
+  "/tech-challenge-doc/docs/linguagem-ubiqua-a20": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tech-challenge-doc-docs-linguagem-ubiqua-07-e-f22"
+  },
+  "/tech-challenge-doc/docs/relatos-domain-experts-bf9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---tech-challenge-doc-docs-relatos-domain-experts-43-b-41e"
+  },
+  "/tech-challenge-doc/-cb9": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__context": {
+      "plugin": "plugin---tech-challenge-doc-markdown-page-584-143"
+    },
+    "config": "config---tech-challenge-doc-5-e-9-f2c"
+  }
+}

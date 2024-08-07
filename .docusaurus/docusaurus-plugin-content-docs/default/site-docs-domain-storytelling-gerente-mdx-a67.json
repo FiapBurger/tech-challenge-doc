@@ -1,0 +1,27 @@
+{
+  "unversionedId": "domain-storytelling/gerente",
+  "id": "domain-storytelling/gerente",
+  "title": "Fluxo do gerente",
+  "description": "",
+  "source": "@site/docs/domain-storytelling/gerente.mdx",
+  "sourceDirName": "domain-storytelling",
+  "slug": "/domain-storytelling/gerente",
+  "permalink": "/tech-challenge-doc/docs/domain-storytelling/gerente",
+  "draft": false,
+  "editUrl": "https://github.com/AlexCesarNascimento/tech-challenge-doc/docs/domain-storytelling/gerente.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Erro no Pedido",
+    "permalink": "/tech-challenge-doc/docs/domain-storytelling/pedido-erro"
+  },
+  "next": {
+    "title": "Event Storm",
+    "permalink": "/tech-challenge-doc/docs/category/event-storm"
+  }
+}

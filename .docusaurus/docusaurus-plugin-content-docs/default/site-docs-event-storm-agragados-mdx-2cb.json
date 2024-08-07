@@ -1,0 +1,27 @@
+{
+  "unversionedId": "event -storm/agragados",
+  "id": "event -storm/agragados",
+  "title": "Agregados",
+  "description": "",
+  "source": "@site/docs/event -storm/agragados.mdx",
+  "sourceDirName": "event -storm",
+  "slug": "/event -storm/agragados",
+  "permalink": "/tech-challenge-doc/docs/event -storm/agragados",
+  "draft": false,
+  "editUrl": "https://github.com/AlexCesarNascimento/tech-challenge-doc/docs/event -storm/agragados.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Big Picture",
+    "permalink": "/tech-challenge-doc/docs/event -storm/big-picture"
+  },
+  "next": {
+    "title": "Context Map",
+    "permalink": "/tech-challenge-doc/docs/context-map"
+  }
+}

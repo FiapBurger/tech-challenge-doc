@@ -1,0 +1,27 @@
+{
+  "unversionedId": "relatos-domain-experts",
+  "id": "relatos-domain-experts",
+  "title": "Relatos dos Domain Experts",
+  "description": "---",
+  "source": "@site/docs/relatos-domain-experts.md",
+  "sourceDirName": ".",
+  "slug": "/relatos-domain-experts",
+  "permalink": "/tech-challenge-doc/docs/relatos-domain-experts",
+  "draft": false,
+  "editUrl": "https://github.com/AlexCesarNascimento/tech-challenge-doc/docs/relatos-domain-experts.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Linguagem Ubíqua",
+    "permalink": "/tech-challenge-doc/docs/linguagem-ubiqua"
+  },
+  "next": {
+    "title": "Domain Storytelling",
+    "permalink": "/tech-challenge-doc/docs/category/domain-storytelling"
+  }
+}

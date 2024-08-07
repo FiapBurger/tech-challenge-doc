@@ -1,0 +1,16 @@
+{
+  "title": "Designer tático",
+  "description": "As tecnologias que nos trouxeram até aqui",
+  "slug": "/category/designer-tático",
+  "permalink": "/tech-challenge-doc/docs/category/designer-tático",
+  "navigation": {
+    "previous": {
+      "title": "Context Map",
+      "permalink": "/tech-challenge-doc/docs/context-map"
+    },
+    "next": {
+      "title": "Tecnologias",
+      "permalink": "/tech-challenge-doc/docs/designer-tatico/"
+    }
+  }
+}

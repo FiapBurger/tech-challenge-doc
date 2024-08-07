@@ -1,0 +1,27 @@
+{
+  "unversionedId": "designer-tatico/designer-tatico",
+  "id": "designer-tatico/designer-tatico",
+  "title": "Tecnologias",
+  "description": "Visando robustez, adaptabilidade e alinhamento com o expertise da equipe, optamos pelas seguintes tecnologias",
+  "source": "@site/docs/designer-tatico/designer-tatico.md",
+  "sourceDirName": "designer-tatico",
+  "slug": "/designer-tatico/",
+  "permalink": "/tech-challenge-doc/docs/designer-tatico/",
+  "draft": false,
+  "editUrl": "https://github.com/AlexCesarNascimento/tech-challenge-doc/docs/designer-tatico/designer-tatico.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Designer tático",
+    "permalink": "/tech-challenge-doc/docs/category/designer-tático"
+  },
+  "next": {
+    "title": "Modelagem de dados",
+    "permalink": "/tech-challenge-doc/docs/designer-tatico/modelagem-dado"
+  }
+}

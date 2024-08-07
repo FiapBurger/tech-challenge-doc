@@ -1,0 +1,27 @@
+{
+  "unversionedId": "event -storm/big-picture",
+  "id": "event -storm/big-picture",
+  "title": "Big Picture",
+  "description": "",
+  "source": "@site/docs/event -storm/big-picture.mdx",
+  "sourceDirName": "event -storm",
+  "slug": "/event -storm/big-picture",
+  "permalink": "/tech-challenge-doc/docs/event -storm/big-picture",
+  "draft": false,
+  "editUrl": "https://github.com/AlexCesarNascimento/tech-challenge-doc/docs/event -storm/big-picture.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Eventos Ordenados",
+    "permalink": "/tech-challenge-doc/docs/event -storm/eventos-ordenados"
+  },
+  "next": {
+    "title": "Agregados",
+    "permalink": "/tech-challenge-doc/docs/event -storm/agragados"
+  }
+}

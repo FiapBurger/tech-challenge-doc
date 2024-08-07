@@ -1,0 +1,27 @@
+{
+  "unversionedId": "domain-storytelling/pedido-erro",
+  "id": "domain-storytelling/pedido-erro",
+  "title": "Erro no Pedido",
+  "description": "",
+  "source": "@site/docs/domain-storytelling/pedido-erro.mdx",
+  "sourceDirName": "domain-storytelling",
+  "slug": "/domain-storytelling/pedido-erro",
+  "permalink": "/tech-challenge-doc/docs/domain-storytelling/pedido-erro",
+  "draft": false,
+  "editUrl": "https://github.com/AlexCesarNascimento/tech-challenge-doc/docs/domain-storytelling/pedido-erro.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fluxo do pedido",
+    "permalink": "/tech-challenge-doc/docs/domain-storytelling/fluxo-pedido"
+  },
+  "next": {
+    "title": "Fluxo do gerente",
+    "permalink": "/tech-challenge-doc/docs/domain-storytelling/gerente"
+  }
+}

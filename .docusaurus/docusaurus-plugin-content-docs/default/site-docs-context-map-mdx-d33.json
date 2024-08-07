@@ -1,0 +1,27 @@
+{
+  "unversionedId": "context-map",
+  "id": "context-map",
+  "title": "Context Map",
+  "description": "",
+  "source": "@site/docs/context-map.mdx",
+  "sourceDirName": ".",
+  "slug": "/context-map",
+  "permalink": "/tech-challenge-doc/docs/context-map",
+  "draft": false,
+  "editUrl": "https://github.com/AlexCesarNascimento/tech-challenge-doc/docs/context-map.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Agregados",
+    "permalink": "/tech-challenge-doc/docs/event -storm/agragados"
+  },
+  "next": {
+    "title": "Designer tático",
+    "permalink": "/tech-challenge-doc/docs/category/designer-tático"
+  }
+}
