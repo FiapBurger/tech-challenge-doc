@@ -26,7 +26,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/AlexCesarNascimento/tech-challenge-doc',
+          editUrl: 'https://github.com/FiapBurger/tech-challenge-doc',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -54,12 +54,7 @@ const config = {
             label: 'Documentação',
           },
           {
-            href: 'http://localhost:8989/swagger-ui/index.html',
-            label: 'Swagger',
-            position: 'right',
-          },
-          {
-            href: 'https://github.com/lucasmneves/tech-challenge-java',
+            href: 'https://github.com/FiapBurger/tech-challenge-doc',
             label: 'GitHub',
             position: 'right',
           },
